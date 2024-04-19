@@ -21,6 +21,7 @@ sdist/
 var/
 wheels/
 share/python-wheels/
+russian-social-media-text-classification/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -122,11 +123,13 @@ celerybeat.pid
 # Environments
 .env
 .venv
+kaggle.json
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
+.DS_Store
 
 # Spyder project settings
 .spyderproject
