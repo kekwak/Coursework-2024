@@ -26,6 +26,7 @@ russian-social-media-text-classification/
 .installed.cfg
 *.egg
 MANIFEST
+hf_models/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
