@@ -1,5 +1,7 @@
 Курсовая работа со 2 года по Машинному Обучению
 
+Датасет [kaggle.com](https://www.kaggle.com/datasets/mikhailma/russian-social-media-text-classification)
+
 Модель | Точность
 ---|---
 ruRoberta-large | 0.8952
