@@ -27,6 +27,7 @@ russian-social-media-text-classification/
 *.egg
 MANIFEST
 hf_models/
+dox/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
